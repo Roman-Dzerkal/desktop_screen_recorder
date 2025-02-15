@@ -1,7 +1,8 @@
 name: desktop_screen_recorder
-description: "A new Flutter plugin project."
+description: "Record screen on Windows, Linux and macOS."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Roman-Dzerkal/desktop_screen_recorder
+repository: https://github.com/Roman-Dzerkal/desktop_screen_recorder
 
 environment:
   sdk: ^3.6.1
